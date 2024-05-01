@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 
 
-<a href="https://github.com/sunyoungeom"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sunyoungeom&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="sunyoungeom's github stats" /></a>
-<a href="https://github.com/sunyoungeom"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoungeom&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/sunyoungeom"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=sunyoungeom&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="sunyoungeom's github stats" /></a>
+<a href="https://github.com/sunyoungeom"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoungeom&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 
