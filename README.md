@@ -11,7 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-국비학원에서 "혼자 밥 먹는 사람들을 위한 친구 찾기 웹서비스"를 주제로 한
+<center>
+  
+국비학원에서 "혼자 밥 먹는 사람들을 위한 친구 찾기 웹서비스"를 주제로 만든
 <a href="https://github.com/sunyoungeom/-LetEatGo">파이널 팀프로젝트</a>입니다.
 
 ### 🛠 Languages and Tools
@@ -23,6 +25,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+</center>
 
 
 <a href="https://github.com/sunyoungeom"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=sunyoungeom&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="sunyoungeom's github stats" /></a>
