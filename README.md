@@ -2,7 +2,7 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&section=header&text=sunyoung&fontSize=90)
 -->
-
+<!--
 - 👋 Hi, I’m @sunyoungeom
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,9 +10,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<br>
-<a href="https://github.com/sunyoungeom/-LetEatGo">파이널 팀프로젝트</a>
+-->
+국비학원에서 "혼자 밥 먹는 사람들을 위한 친구 찾기 웹서비스"를 주제로 한
+<a href="https://github.com/sunyoungeom/-LetEatGo">파이널 팀프로젝트</a>입니다.
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
