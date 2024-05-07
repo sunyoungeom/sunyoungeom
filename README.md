@@ -11,12 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
-<div>
-  
+<br>
 국비학원에서 "혼자 밥 먹는 사람들을 위한 친구 찾기 웹서비스"를 주제로 만든
 <a href="https://github.com/sunyoungeom/-LetEatGo">파이널 팀프로젝트</a>입니다.
-
+<br>
+<br>
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
